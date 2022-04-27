@@ -1,2 +1,2 @@
-# desafios
-Todos os desafios da sirius
+# Desafios 
+Todos os desafios soltos da sirius neste repositório
