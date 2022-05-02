@@ -1,2 +1,4 @@
 # Desafios 
-Todos os desafios soltos da sirius neste repositório
+## Aqui nesse repositório você irá encontraar:
+Todos os desafios já feitos por mim da sirius.
+
