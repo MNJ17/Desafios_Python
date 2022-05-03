@@ -1,4 +1,5 @@
 # Desafios 
 ## Aqui nesse repositório você irá encontrar:
-Todos os desafios já feitos por mim da sirius.
+Desafios relacionados a python.
+Todos os desafios em python já feitos por mim.
 
