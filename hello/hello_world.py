@@ -2,6 +2,6 @@ from sys import maxunicode
 
 
 def hello_world():
-  return ( 'olá mundo' )
+  print ( 'olá mundo' )
 
 
